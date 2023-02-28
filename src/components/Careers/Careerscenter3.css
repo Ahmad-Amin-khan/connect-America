@@ -1,0 +1,149 @@
+.careercenter3{
+margin-top: 25%;
+}
+.careercenter3text1{
+    font-family: 'Barlow Condensed';
+    text-align:center;
+
+    font-size:3vw;
+    font-weight: 500;
+    color: rgba(217, 4, 61, 1);}
+    .careercenter3text2{
+        font-family: 'Raleway',sans-serif;
+        text-align:center;
+    margin-top: -2%;
+        font-size:5vw;
+        margin-bottom: 2%;
+        font-weight: 700;
+        color: #253759;
+    }    
+.profile1{
+    position: absolute;
+    margin-left: 15%;
+    width: 20%;
+    height: 60vh;
+    background-color: rgba(126, 126, 126, 1);
+    border: 2px solid rgba(217, 4, 61, 1);
+}    
+.careercenter3text3{
+    font-family: 'Barlow Condensed';
+    text-align:center;
+    margin-top: 90%;
+    font-size:1.5vw;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+.careercenter3text4{
+    font-family: 'Barlow Condensed';
+    text-align:center;
+    font-size:1.5vw;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+.profile2{
+    position: absolute;
+    margin-left: 40%;
+    width: 20%;
+    height: 60vh;
+    background-color: rgba(126, 126, 126, 1);
+    border: 2px solid rgba(217, 4, 61, 1);
+}
+.profile3{
+    position: absolute;
+    margin-left: 65%;
+    width: 20%;
+    height: 60vh;
+    background-color: rgba(126, 126, 126, 1);
+    border: 2px solid rgba(217, 4, 61, 1);
+}
+.careerimage4{
+    margin-top: 34%;
+    width: 100%;
+
+}
+.careerimage4mb{
+
+    width: 0%;
+
+}    
+.priority2{
+    position: absolute;
+     background-color: rgba(217, 4, 61, 1);
+    margin-top: -21.5%;
+    width: 70%;
+    margin-left: 15%;
+    opacity: .8;
+}
+.careerimage5{
+    margin-top: 4%;
+    margin-left: 4%;
+    width: 5%;
+
+}
+.digital2{
+
+    font-family: 'Raleway',sans-serif;
+    text-align:left;
+margin-top: -4.5%;
+margin-left: 12%;
+    font-size:2.8vw;
+    font-weight: 700;
+    color: #FFFFFF;
+  
+}
+.digital3{
+
+    font-family: 'Barlow Condensed';
+
+    text-align:left;
+margin-left: 5%;
+    font-size:2.2vw;
+    font-weight: 400;
+    color: #FFFFFF;
+  padding-bottom: 2%;
+}
+@media only screen and (max-width: 750px) {
+    .careercenter3{
+        margin-top: 0%;
+        }
+        .careerimage4{
+            margin-top: 5%;
+            width: 0%;
+        
+        }       
+        .careerimage4mb{
+            margin-top: 5%;
+            width: 100%;
+        
+}
+.priority2{
+    position: absolute;
+     background-color: rgba(217, 4, 61, 1);
+    margin-top: -27%;
+    width: 80%;
+    margin-left: 10%;
+    opacity: .8;
+}
+.careerimage5{
+    margin-top: 4%;
+    margin-left: 4%;
+    width: 8%;
+
+}
+.digital2{
+
+margin-top: -6.3%;
+margin-left: 15%;
+    font-size:3.7vw;
+
+  
+}
+.digital3{
+margin-left: 5%;
+    font-size:2.8vw;
+    margin-top: -3.5%;
+    font-weight: 400;
+    color: #FFFFFF;
+  padding-bottom: 2%;
+}       
+}

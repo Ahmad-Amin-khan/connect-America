@@ -1,0 +1,99 @@
+ <div>
+   <hr className="aboutline5"/>
+   </div>
+   <div className='aboutfinal'>
+   <div class="rowfinal">
+  <div class="columnfinal" >
+  <p className='aboutfinal1'>Our Office</p>
+  <p className='aboutfinal2'>We’re Here  </p>
+  <p className='aboutfinal22'>  For&nbsp;<span style={{color:"rgba(217, 4, 61, 1)"}}>YOU.</span>
+  </p>
+
+
+  <p className='aboutfinal3'>Nashville, TN</p>
+  <p className='aboutfinal4'>Amsive Digital<br/>
+414 Union St Suite 1900<br/>
+Nashville, TN 37219</p>
+  
+  </div>
+  <div class="columnfinal" >
+
+  <img className='map' src={aboutimage9} alt='map'/> 
+
+  </div>
+</div>
+
+   </div>
+
+   <div className='careercenter3'>
+    <p className='careercenter3text1'>Meet The Team</p>
+    <p className='careercenter3text2'>We Give Solutions And Build Brands</p>
+    <div className='profile1'>
+        <p className='careercenter3text3'>Mohammad Ali</p>
+        <p className='careercenter3text4'>CEO</p>
+    </div>
+    <div className='profile2'>
+    <p className='careercenter3text3'>Mohammad Ali</p>
+        <p className='careercenter3text4'>CEO</p>
+    </div>
+    <div className='profile3'>
+    <p className='careercenter3text3'>Mohammad Ali</p>
+        <p className='careercenter3text4'>CEO</p>
+    </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /////
+    <div style={{visibility:"none"}}>Your website is unquestionably the number one resource that buyers use for evaluating<br/>your company, products and services– often times before ever speaking with a sales rep.<br/>A website performs many jobs: brand ambassador, product/service educator, 24/7  digital<br/>sales rep and customer caretaker — all in one. Therefore it should have the capacity to<br/>nurture buyers along every stage of the buyer’s journey and measurably support deeper <br/>engagement to drive sales.</div>
+    ///////////
+    <div className='aboutlast3'>
+    
+    <img className='aboutimagelast7' src={aboutimage7} alt='main-services'/> 
+ 
+    <p className='aboutlast2text1'>
+    There’s no other company that does it better. Konnect America<br/> professionalism, patnership and expertise is invaluable. They are a true <br/>extension of our team!
+    </p>
+  <p className='aboutlasttext2'>Lindsey K.</p>
+  <p className='aboutlasttext3'>Demand Generation Leader, E-Builder Enterprise - A Trimble Company</p>
+  
+ 
+    </div>
+  
+ 
+   <div className='aboutlast2'>
+    
+    <img className='aboutimagelast7' src={aboutimage7} alt='main-services'/> 
+ 
+    <p className='aboutlast2text1'>
+    There’s no other company that does it better. Konnect America<br/> professionalism, patnership and expertise is invaluable. They are a true <br/>extension of our team!
+    </p>
+  <p className='aboutlasttext2'>Lindsey K.</p>
+  <p className='aboutlasttext3'>Demand Generation Leader, E-Builder Enterprise - A Trimble Company</p>
+  
+ 
+    </div>
+   <div className='aboutlast'>
+    
+   <img className='aboutimagelast7' src={aboutimage7} alt='main-services'/> 
+
+   <p className='aboutlasttext1'>
+   There’s no other company that does it better. Konnect America<br/> professionalism, patnership and expertise is invaluable. They are a true <br/>extension of our team!
+   </p>
+ <p className='aboutlasttext2'>Lindsey K.</p>
+ <p className='aboutlasttext3'>Demand Generation Leader, E-Builder Enterprise - A Trimble Company</p>
+ 
+
+   </div>

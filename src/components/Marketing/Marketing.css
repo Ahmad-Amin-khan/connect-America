@@ -1,0 +1,525 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100;200;300;400;500;600;700&family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap');
+
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+  body{
+    height: 100vh;
+    overflow-X: hidden;
+ 
+    }
+    .marketnav{
+      position:"absolute";
+      margin-top:"4%";
+      margin-left:"90%";
+      background-color:"white";
+      width:"10%";
+      height:"7vh";
+      padding:".3%";
+  }
+    .main-container-marketing{
+
+}
+
+.marketimage{
+    position: absolute;
+    margin-top: 11%;
+    margin-left: 50%;
+    width: 42%;
+}
+.markettext1{
+    position: absolute;
+    margin-top: 16.4%;
+    margin-left: 7.6%;
+  font-weight: bold;
+    font-family: 'Raleway',sans-serif;
+    font-size: 2.5vw;
+    text-align: center;
+    color:rgba(217, 4, 61, 1);
+}
+.markettext2{
+    position: absolute;
+    margin-top: 19%;
+    margin-left: 7.6%;
+  font-weight: bold;
+    font-family: 'Raleway',sans-serif;
+    font-size: 4vw;
+    text-align: center;
+    color:rgba(37, 55, 89, 1);
+}
+.markettext3{
+    position: absolute;
+    margin-top: 23.5%;
+    margin-left: 7.6%;
+  font-weight: 400;
+  font-family: 'Barlow Condensed',sans-serif;
+  font-size: 1.4vw;
+    text-align: left;
+    color:rgba(52, 52, 52, 1);
+}
+.marketbutton1{
+    position: absolute;
+    margin-top: 25.5%;
+    margin-left: 7.6%;
+  font-weight: 500;
+  font-family: 'Raleway',sans-serif;
+  font-size: 1.2vw;
+  padding-top: .8%;
+  padding-bottom: .8%;
+  padding-left: 1.5%;
+  padding-right: 1.5%;
+    text-align: center;
+    color: #fff;
+    background: #D9043D;
+    cursor: pointer;
+}
+.market-center{
+    padding-top: 42%;
+}
+.marketimage2{
+    width: 100%;
+}
+.marketimage22{
+    width: 0%;
+}
+.bullhorn{
+    position: absolute;
+    width: 7.5%;
+    margin-top: 2%;
+    margin-left: -85%;
+
+}
+
+.website1{
+    position: absolute;
+ width: 7.5%;
+    margin-top: 2%;
+    margin-left: -72%;
+
+}
+.emailmarketing{
+    position: absolute;
+
+ width:7.2% ; 
+    margin-top: 2%;
+    margin-left: -59%;
+}
+.contentmanagement{
+    position: absolute;
+    width:7.2% ; 
+
+    margin-top: 2%;
+    margin-left: -46%;
+
+}
+.onlineshop{
+    position: absolute;
+ width: 7.7%;
+
+    margin-top: 2%;
+    margin-left: -33%;
+}
+
+.userengagement{
+    position: absolute;
+width: 7.2%;
+
+    margin-top: 2%;
+    margin-left: -20%;
+}
+.markettext4a{
+    font-size: 0px;
+  }
+  .markettext4b{
+    font-size: 0px;
+  }
+.markettext4{
+    position: absolute;
+margin-top: -3%;
+    margin-left: 13.2%;
+  font-weight: 600;
+  font-family: 'Raleway',sans-serif;
+  font-size: .9vw;
+    text-align: center;
+    color:#fff;
+    text-transform: uppercase;
+
+}
+.markettext5{
+  position: absolute;
+  margin-top: -3%;
+      margin-left: 26.5%;
+    font-weight: 600;
+    font-family: 'Raleway',sans-serif;
+    font-size: .9vw;
+      text-align: center;
+      color:#fff;
+      text-transform: uppercase;
+  
+
+}
+.markettext5a{
+    font-size: 0px;
+  
+  }
+  .markettext5b{
+    font-size: 0px;
+  
+  }
+.markettext6{
+    position: absolute;
+    margin-top: -3%;
+    margin-left: 40.8%;
+  font-weight: 600;
+  font-family: 'Raleway',sans-serif;
+  font-size: .9vw;
+    text-align: center;
+    color:#fff;
+    text-transform: uppercase;
+
+}
+.markettext6a{
+    font-size: 0px;
+  
+  }
+  .markettext6b{
+    font-size: 0px;
+  
+  }
+.markettext7{
+    position: absolute;
+    margin-top: -3%;
+    margin-left: 53.2%;
+  font-weight: 600;
+  font-family: 'Raleway',sans-serif;
+  font-size: .9vw;
+    text-align: center;
+    color:#fff;
+    text-transform: uppercase;
+
+}
+.markettext7a{
+    font-size: 0px;
+  
+  }
+  .markettext7b{
+    font-size: 0px;
+  
+  }
+.markettext8{
+    position: absolute;
+    margin-top: -3%;
+    margin-left: 65.1%;
+  font-weight: 600;
+  font-family: 'Raleway',sans-serif;
+  font-size: .9vw;
+    text-align: center;
+    color:#fff;
+    text-transform: uppercase;
+
+}
+.markettext8a{
+    font-size: 0px;
+  
+  }
+  .markettext8b{
+    font-size: 0px;
+  
+  }
+.markettext9{
+    position: absolute;
+    margin-top: -3%;
+    margin-left: 79%;
+  font-weight: 600;
+  font-family: 'Raleway',sans-serif;
+  font-size: .9vw;
+    text-align: center;
+    color:#fff;
+    text-transform: uppercase;
+
+}
+.markettext9a{
+    font-size: 0px;
+  
+  }
+  .markettext9b{
+    font-size: 0px;
+  
+  }
+  @media only screen and (max-width: 800px) {
+    
+    .marketnav {
+      position:absolute !important;
+      margin-top: 0% !important;
+      margin-left:0% !important;
+      background-color:white !important;
+      width:0% !important;
+      height:0vh !important;
+      padding:0% !important ;
+      border: none !important;
+    }
+    
+    }
+@media only screen and (max-width: 750px) {
+  .market-center{
+    padding-top: 0%;
+    margin-bottom:-10% ;
+}
+  .marketimage{
+        margin-top: 11%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    .markettext1{
+        margin-top: 64%;
+        margin-left: 7.6%;
+        font-size: 5vw;
+          }
+    .markettext2{
+        margin-top: 70%;
+        margin-left: 7.6%;
+         font-size: 8.5vw;
+       }
+    .markettext3{
+        margin-top: 82%;
+        margin-left: 7.6%;
+       font-size: 3vw;
+       }
+    .marketbutton1{
+        margin-top: 84%;
+      font-size: 2.8vw;
+      padding: 3%;
+      width: 35%;
+      font-weight: 600;
+      font-family: 'Raleway',sans-serif;
+
+
+    }
+    .market-center{
+        padding-top: 108%;
+
+    }
+    .marketimage2{
+        width: 0%;
+     }
+     .marketimage22{
+        width: 100%;
+     }
+    .bullhorn{
+
+        width: 15%;
+        margin-top: 8%;
+        margin-left: -85%;
+    
+    }
+    
+    .website1{
+        position: absolute;
+     width: 15%;
+        margin-top: 8%;
+        margin-left: -30%;
+    
+    }
+    .emailmarketing{
+        position: absolute;
+    
+     width:15% ; 
+        margin-top: 8%;
+        margin-left: -59%;
+    }
+    .contentmanagement{
+        position: absolute;
+        width:15% ; 
+    
+        margin-top: 36%;
+        margin-left: -86%;
+    
+    }
+    .onlineshop{
+        position: absolute;
+     width: 15%;
+    
+        margin-top: 36%;
+        margin-left: -59%;
+    }
+    
+    .userengagement{
+        position: absolute;
+    width: 15%;
+    
+        margin-top: 36%;
+        margin-left: -28%;
+}
+.markettext4{
+  font-size: 0px;
+}
+.markettext4a{
+    position: absolute;
+margin-top: -45%;
+    margin-left: 13.2%;
+  font-weight: 600;
+  font-family: 'Raleway',sans-serif;
+  font-size: 3vw;
+    text-align: center;
+    color:#fff;
+    text-transform: uppercase;
+
+}
+.markettext4b{
+    position: absolute;
+margin-top: -41.5%;
+    margin-left: 15.2%;
+  font-weight: 600;
+  font-family: 'Raleway',sans-serif;
+  font-size: 3vw;
+    text-align: center;
+    color:#fff;
+    text-transform: uppercase;
+
+}
+.markettext5{
+  font-size: 0px;
+
+}
+.markettext5a{
+    position: absolute;
+margin-top: -45%;
+    margin-left: 68%;
+  font-weight: 600;
+  font-family: 'Raleway',sans-serif;
+  font-size: 3vw;
+    text-align: center;
+    color:#fff;
+    text-transform: uppercase;
+
+}
+.markettext5b{
+    position: absolute;
+margin-top: -41.5%;
+    margin-left: 70%;
+  font-weight: 600;
+  font-family: 'Raleway',sans-serif;
+  font-size: 3vw;
+    text-align: center;
+    color:#fff;
+    text-transform: uppercase;
+
+}
+.markettext6{
+ font-size: 0px;
+}
+.markettext6a{
+    position: absolute;
+margin-top: -45%;
+    margin-left: 43%;
+  font-weight: 600;
+  font-family: 'Raleway',sans-serif;
+  font-size: 3vw;
+    text-align: center;
+    color:#fff;
+    text-transform: uppercase;
+
+}
+.markettext6b{
+    position: absolute;
+margin-top: -41.5%;
+    margin-left: 41%;
+  font-weight: 600;
+  font-family: 'Raleway',sans-serif;
+  font-size: 3vw;
+    text-align: center;
+    color:#fff;
+    text-transform: uppercase;
+
+}
+.markettext7{
+    font-size: 0px;
+   }
+   .markettext7a{
+       position: absolute;
+   margin-top: -16%;
+       margin-left: 16%;
+     font-weight: 600;
+     font-family: 'Raleway',sans-serif;
+     font-size: 3vw;
+       text-align: center;
+       color:#fff;
+       text-transform: uppercase;
+   
+   }
+   .markettext7b{
+       position: absolute;
+   margin-top: -12.4%;
+       margin-left: 14.3%;
+     font-weight: 600;
+     font-family: 'Raleway',sans-serif;
+     font-size: 3vw;
+       text-align: center;
+       color:#fff;
+       text-transform: uppercase;
+   
+   }
+   .markettext8{
+    font-size: 0px;
+   }
+   .markettext8a{
+       position: absolute;
+   margin-top: -16%;
+       margin-left: 39%;
+     font-weight: 600;
+     font-family: 'Raleway',sans-serif;
+     font-size: 3vw;
+       text-align: center;
+       color:#fff;
+       text-transform: uppercase;
+   
+   }
+   .markettext8b{
+       position: absolute;
+   margin-top: -12.4%;
+       margin-left: 40.4%;
+     font-weight: 600;
+     font-family: 'Raleway',sans-serif;
+     font-size: 3vw;
+       text-align: center;
+       color:#fff;
+       text-transform: uppercase;
+   
+   }
+
+   .markettext9{
+    font-size: 0px;
+   }
+   .markettext9a{
+       position: absolute;
+   margin-top: -16%;
+       margin-left: 74%;
+     font-weight: 600;
+     font-family: 'Raleway',sans-serif;
+     font-size: 3vw;
+       text-align: center;
+       color:#fff;
+       text-transform: uppercase;
+   
+   }
+   .markettext9b{
+       position: absolute;
+   margin-top: -12.4%;
+       margin-left: 69%;
+     font-weight: 600;
+     font-family: 'Raleway',sans-serif;
+     font-size: 3vw;
+       text-align: center;
+       color:#fff;
+       text-transform: uppercase;
+   
+   }
+
+}
+@media only screen and (max-width: 450px) {
+  .market-center{
+    margin-bottom:-35% ;
+}
+}

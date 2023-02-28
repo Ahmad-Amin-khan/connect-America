@@ -1,0 +1,106 @@
+.brand3image{
+    position: absolute;
+    margin-top: 12.5%;
+    width: 40%;
+    margin-left: 53%;
+}
+
+.producttext1{
+
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.5vw;
+    align-items: center;
+    
+    text-transform: capitalize;
+    color: #253759;
+    margin-left: -4%;
+    margin-top: .5%;
+    }
+   
+.categorytext1{
+
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.5vw;
+    align-items: center;
+    
+    text-transform: capitalize;
+    color: #253759;
+    margin-left: -9%;
+    margin-top: .5%;
+    } 
+      
+.mangtext1{
+
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.5vw;
+    align-items: center;
+    
+    text-transform: capitalize;
+    color: #253759;
+    margin-left: -15%;
+    margin-top: .5%;
+    } 
+          
+.tagtext1{
+
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.5vw;
+    align-items: center;
+    
+    text-transform: capitalize;
+    color: #253759;
+    margin-left: -12%;
+    margin-top: .5%;
+    } 
+    
+.brand3lastmargin{
+    margin-top: 27.5%;
+    margin-bottom: 6%;
+}
+
+    @media only screen and (max-width: 750px) {
+        .brand3midmargin{
+            margin-top: 3.7%;
+            margin-bottom: 7%;
+        }
+        
+        .brand3image{
+            position: relative;
+            width: 80%;
+            margin-left: 10%;
+        }
+        
+        .producttext1{
+          font-size: 0px; }
+           
+        .categorytext1{
+            font-size: 0px; 
+            } 
+              
+        .mangtext1{
+            font-size: 0px; 
+            } 
+                  
+        .tagtext1{
+        
+            font-size: 0px; 
+            } 
+        
+.brand3lastmargin{
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+
+    }
